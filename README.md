@@ -18,32 +18,34 @@
 ## 📂 Структура проекта
 
 ```
-gallery-app/
-├── app/
-│   ├── controllers/
-│   │   ├── AuthController.php
-│   │   ├── GalleryController.php
-│   │   └── ImageController.php
-│   ├── Models/
-│   │   ├── Comment.php
-│   │   ├── Database.php
-│   │   └── Image.php
-│   └── views/
-│       ├── gallery/
-│       │   └── index.php
-│       └── layout/
-│           ├── footer.php
-│           └── header.php
-├── config/
-│   └── config.php
-├── engine/
-│   ├── functions.php
-│   └── Router.php
-├── public/
-│   ├── img/
-│   └── index.php
-├── .htaccess
-└── index.php
+
+📁 gallery-app/
+├── 📁 app/
+│   ├── 📁 controllers/
+│   │   ├── 📄 AuthController.php
+│   │   ├── 📄 GalleryController.php
+│   │   └── 📄 ImageController.php
+│   ├── 📁 Models/
+│   │   ├── 📄 Comment.php
+│   │   ├── 📄 Database.php
+│   │   └── 📄 Image.php
+│   └── 📁 views/
+│       ├── 📁 gallery/
+│       │   └── 📄 index.php
+│       └── 📁 layout/
+│           ├── 📄 footer.php
+│           └── 📄 header.php
+├── 📁 config/
+│   └── 📄 config.php
+├── 📁 engine/
+│   ├── 📄 functions.php
+│   └── 📄 Router.php
+├── 📁 public/
+│   ├── 📁 img/
+│   └── 📄 index.php
+├── ⚙️ .htaccess
+└── 📄 index.php
+
 ```
 
 
