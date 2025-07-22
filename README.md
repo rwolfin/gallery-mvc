@@ -43,6 +43,8 @@
 ├── 📁 public/
 │   ├── 📁 img/
 │   └── 📄 index.php
+├── 📄 composer.json
+├── 📄 composer.lock
 ├── ⚙️ .htaccess
 └── 📄 index.php
 
